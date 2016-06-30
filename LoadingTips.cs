@@ -14,7 +14,6 @@ namespace LoadingTipsPlus
     [KSPAddon(KSPAddon.Startup.Instantly, true)]
     public class LoadingTips : MonoBehaviour
     {
-        //private string globalConfigFilename;
         private ConfigNode globalNode = new ConfigNode();
         private LTconfig LTconfigvals = new LTconfig();
         private List<LoadingScreen.LoadingScreenState> LoadingScreens = new List<LoadingScreen.LoadingScreenState>();
@@ -26,7 +25,7 @@ namespace LoadingTipsPlus
             DontDestroyOnLoad(this);
             try
             {
-                string DataPath = ((Application.platform != RuntimePlatform.OSXPlayer) ? Path.Combine(Application.dataPath, "../GameData") : Path.Combine(Application.dataPath, "../../ GameData"));
+                string DataPath = Path.Combine(KSPUtil.ApplicationRootPath, "GameData");
                 string[] files = Directory.GetFiles(DataPath,"*.ltp",SearchOption.AllDirectories);
                 for (int i = 0; i < files.Length; i++)
                 {

@@ -29,8 +29,9 @@ namespace LoadingTipsPlus
             if (node.HasNode(configNodeName)) //Load SFS config nodes
             {
                 ConfigNode LTsettingsNode = node.GetNode(configNodeName);
-
-                LTsettingsNode.TryGetValue("Overwrite", ref Overwrite);
+                bool tmpOverwrite = Overwrite; 
+                LTsettingsNode.TryGetValue("Overwrite", ref tmpOverwrite);
+                Overwrite |= tmpOverwrite;
                 string[] values = LTsettingsNode.GetValuesStartsWith("ToolTip");
                 for (int i = 0; i < values.Length; i++)
                 {

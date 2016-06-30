@@ -1,6 +1,5 @@
 LOADINGTOOLTIPSPLUS
 {
-	Overwrite = true
-	ToolTip = Testing tooltip 1
-	ToolTip = Testing tooltip 2
+	Overwrite = false
+	ToolTip = Tooltips brought to you by LoadingToolTipsPlus...	
 }
