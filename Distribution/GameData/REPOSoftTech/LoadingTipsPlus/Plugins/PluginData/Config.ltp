@@ -1,0 +1,6 @@
+LOADINGTOOLTIPSPLUS
+{
+	Overwrite = true
+	ToolTip = Testing tooltip 1
+	ToolTip = Testing tooltip 2
+}

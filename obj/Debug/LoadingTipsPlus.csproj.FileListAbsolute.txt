@@ -1,0 +1,15 @@
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\LoadingTipsPlus.dll
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\LoadingTipsPlus.pdb
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\Assembly-CSharp.dll
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\KSPUtil.dll
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\UnityEngine.dll
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\UnityEngine.UI.dll
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\SaveUpgradePipeline.Core.dll
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\KSPAssets.dll
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\Assembly-CSharp.xml
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\KSPUtil.xml
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\bin\Debug\UnityEngine.xml
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\obj\Debug\LoadingTipsPlus.dll
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\obj\Debug\LoadingTipsPlus.pdb
+C:\Users\JamieLeighton\Documents\GitHub\LoadingTipsPlus\obj\Debug\LoadingTipsPlus.csprojResolveAssemblyReference.cache
