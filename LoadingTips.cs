@@ -22,6 +22,7 @@ namespace LoadingTipsPlus
 
         private void Awake()
         {
+            Debug.Log("ToolTips AWAKE");
             DontDestroyOnLoad(this);
             try
             {
@@ -49,6 +50,7 @@ namespace LoadingTipsPlus
 
         private void Update()
         {
+            
             if (!processedToolTips && LoadingScreen.Instance != null)
             {
                 LoadingScreens = LoadingScreen.Instance.Screens;

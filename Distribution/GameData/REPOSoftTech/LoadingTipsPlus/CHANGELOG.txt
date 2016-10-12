@@ -1,1 +1,2 @@
+V1.1 Re-Compile for KSP 1.2
 V1.0 Initial Release
