@@ -63,9 +63,6 @@
   <ItemGroup>
     <Content Include="Distribution\GameData\REPOSoftTech\LoadingTipsPlus\CHANGELOG.txt" />
     <Content Include="Distribution\GameData\REPOSoftTech\LoadingTipsPlus\LICENSE.txt" />
-    <Content Include="Distribution\GameData\REPOSoftTech\LoadingTipsPlus\MiniAVC Licence.txt" />
-    <Content Include="Distribution\GameData\REPOSoftTech\LoadingTipsPlus\MiniAVC.dll" />
-    <Content Include="Distribution\GameData\REPOSoftTech\LoadingTipsPlus\MiniAVC.xml" />
     <Content Include="Distribution\GameData\REPOSoftTech\LoadingTipsPlus\Plugins\LoadingTipsPlus.dll" />
     <Content Include="Distribution\GameData\REPOSoftTech\LoadingTipsPlus\Plugins\LoadingTipsPlus.dll.mdb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
